@@ -1,77 +1,41 @@
 {
-  "WBUI2": {
-    "settings": {
-      "OpenButton": 4,
-      "HideIcon": true,
-      "HideIconAfter": 180,
-      "IconURL": "https://dl.dropboxusercontent.com/scl/fi/hgfq6w87g8y9l5hzh4t6c/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark_1_small.png?rlkey=q5bc01axz7yy51lk3w982pe52&dl=0",
-      "DisableIconText": false,
-      "IconPosition": 2,
-      "IconTextColor": 3,
-      "OpenOnStart": false,
-      "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 12
-    },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"0,0.75,1,1\">1 Rules</>",
-          "title1": "<RichColor Color=\"0,1,0,1\">Welcome to LNG!</>",
-          "text1": "**ASA In-Game Rules**\n\n• NO PVP  \n• NO GRIEFING  \n• No cheating (hacks or map glitches)  \n• No offensive names  \n• No giving op dinos/free tech plots  \n• No impersonating staff  \n• Don’t enforce rules if you’re not staff  \n\n**Obelisk & Caves**  \n• No building on obelisks/craters  \n• Caves OK unless they block resources  \n• Remove unused spikes/pens to free space  \n\n**Final Word**  \nAdmins have the final say. Arguing with staff = instant ban.",
-          "imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0.5,0,1\">2 Server Info</>",
-          "title1": "<RichColor Color=\"1,0.84,0,1\">LNG Server Details</>",
-          "text1": "**IP Address:** play.lngnetwork.net  \n**Discord:** discord.gg/PZxNj3WWFX  \n**Website:** www.lngnetwork.net  \n**Map Type:** Custom Modded Map  \n**Active Players:** 3000+ members  \n**Staff:** 24/7 Support Team",
-          "imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"0.5,0,1,1\">3 Mods & Rates</>",
-          "title1": "<RichColor Color=\"0.75,0,0.75,1\">Key Mods & XP Rates</>",
-          "text1": "- **Core Mods:** Ark Omega, Zytharian Framework  \n- **Quality-of-Life:** Structures+, S+, HG, Inventory++  \n\n**Rates**  \n• XP: 50×  \n• Harvest: 50×  \n• Taming: 50×  \n• Breeding: 50×",
-          "imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"0,1,1,1\">4 Commands</>",
-          "title1": "<RichColor Color=\"0,0.5,0.75,1\">Common Commands</>",
-          "text1": "/tp <player> — Teleport to someone  \n/sethome — Set your home point  \n/home — Return home  \n/duel <player> — Challenge to duel  \n/list — Show online players  \n/stats — View your stats",
-          "imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
-        }
-      },
-      {
-        "tab5": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,1,1\">5 Quick Links</>",
-          "title1": "<RichColor Color=\"1,0,0.5,1\">Helpful Resources</>",
-          "text1": "[?? Official Website](https://www.lngnetwork.net)  \n[?? Join Discord](https://discord.gg/PZxNj3WWFX)  \n[?? Mod Collection](https://www.lngnetwork.net/#3)",
-          "imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link2": {
-          "text": "Discord",
-          "url": "https://discord.gg/PZxNj3WWFX"
-        }
-      },
-      {
-        "link3": {
-          "text": "Mod Collection",
-          "url": "https://www.lngnetwork.net/#3"
-        }
-      }
-    ]
-  }
+"WBUI2": {
+"settings": {
+"OpenButton": 0,
+"HideIcon": true,
+"HideIconAfter": 180,
+"IconURL": "https://dl.dropboxusercontent.com/scl/fi/hgfq6w87g8y9l5hzh4t6c/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark_1_small.png?rlkey=q5bc01axz7yy51lk3w982pe52&dl=0",
+"DisableIconText": false,
+"IconPosition": 2,
+"IconTextColor": 3,
+"OpenOnStart": false,
+"OpenOnStartOnlyNewPlayers": true,
+"UpdateInterval": 12
+},
+"tabs": [
+{
+"tab1": {
+"layout": 1,
+"buttontext": "<RichColor Color=\"1,0,0,1\">1 Rules</>",
+"title1": "Welcome to LNG!",
+"text1": "ASA In-game Rules\n\nNO PVP\nNO GRIEFING\nNo cheating: This includes hacks, map glitches or bots (macros are okay).\nNo offensive names.\nNo Giving op Dinos to new players.\nNo giving free Ultimate Tech plots.\nNo impersonating staff.\nNo enforcing rules on your own.\n\nObelisk/Caves/Terminals:\n\nBuilding on obelisks or their respective craters is not allowed.\n\nBuilding in caves (land or underwater) are permitted so long as they do not prevent access to any unique resources such as artifacts or drops (caves without unique resources can be used).\n\nDue to structure protection; you must clean up after yourself, e.g removing spikes and taming pens no longer in use, this prevents others from using the land as they cannot remove the items themselves.\n\nNo arguing with staff!!\n\nIf you believe no offence was done, DO NOT REPLY TO THE WARNING! Make a ticket and explain your point on 1 single resumed message, take a breath and cool down before typing, arguing with staff will only make your case worse and you will very likely banned regardless of your rank/purchases.\n\nFinal Word: ADMINS have final say in all matters, even if not covered under the rules if they find actions of players are detrimental to the community, action taken outside the rules may be taken to prevent disruption. Therefore, arguing with an Admin will only get you Banned or Muted.\n\nIF STAFF SAYS SOMETHING LISTEN TO THEM. FAILING TO FOLLOW INSTRUCTIONS WILL GIVE YOU A FREE BAN\n\nDO NOT ENFORCE RULES IF YOU ARE NOT STAFF. DO NOT BLOCK CAVES OR TELL PEOPLE TO MOVE IF YOU ARE NOT STAFF. THIS WILL GRANT YOU A FREE BAN ASWELL",
+"imageurl": "https://dl.dropboxusercontent.com/scl/fi/xzc4d8exi5vkq7w9e45rb/Copy_of_Alpha_Geometric_NFT_-_Made_with_PosterMyWall_1_adobespark.png?rlkey=6nkjxembqdt3e1j7gv7sj45nb&dl=0"
+}
+}
+],
+"links": [
+{
+"link2": {
+"text": "Discord",
+"url": "https://discord.gg/PZxNj3WWFX"
+}
+},
+{
+"link3": {
+"text": "Mod Collection",
+"url": "https://www.lngnetwork.net/#3"
+}
+}
+]
+}
 }
